@@ -15,7 +15,7 @@ public class Atividade1 {
     }
 
     public static void main(String[] args) {
-        Integer numero = 1; // Número que deseja verificar
+        Integer numero = 1; 
 
         int resultado = verificaNumeroPrimo(numero);
 
