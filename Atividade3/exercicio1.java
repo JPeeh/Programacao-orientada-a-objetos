@@ -46,7 +46,7 @@ class GerenciadorEstoque {
     public void listarItens() {
         System.out.println("\nItens no estoque:");
         for (ItemEstoque item : estoque) {
-            System.out.println("Nome: " + item.getNome() + ", Quantidade: " + item.getQuantidade());
+            System.out.println("Nome: " + item.getNome() + "\nQuantidade: " + item.getQuantidade());
         }
     }
 
