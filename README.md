@@ -1,2 +1,0 @@
-# Programacao-orientada-c
-Faculdade
