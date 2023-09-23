@@ -4,6 +4,7 @@ import java.util.Scanner;
 import veiculos.Bicicleta;
 import veiculos.Carro;
 import veiculos.Moto;
+import veiculos.Veiculo;
 
 public class Executavel {
     public static void main(String[] args) {
